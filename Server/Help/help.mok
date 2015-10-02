@@ -1,0 +1,197 @@
+<html dir="rtl">
+
+<head>
+<meta http-equiv="Content-Language" content="ar-sa">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<title>نظام المختار لإدارة الشبكات و مق</title>
+</head>
+
+<body>
+
+<p align="center"><b><font size="5" color="#000080">نظام المختار لإدارة الشبكات 
+و مقاهي الإنترنت</font></b></p>
+<p align="center"><b><span lang="en-us"><font size="5" color="#000080">
+Al-Mokhtar System For Networks And Internet Coffee</font></span></b></p>
+<p align="center"><span lang="en-us"><font size="5"><b>
+-----------------------------------------------------------------------</b></font></span></p>
+<p align="center"><u><b><font size="5" color="#FF0000">مواضيع التعليمات</font></b></u></p>
+<p align="center"><b><a href="#مقدمة_:_">مقدمة</a></b></p>
+<p align="center"><b><a href="#شرح_كيفيّة_إعداد_النظام_:_">شرح كيفية إعداد 
+النظام</a></b></p>
+<p align="center"><b><a href="#القائمة_عرض_و_أوامرها__">القائمة عرض و أوامرها</a></b></p>
+<p align="center"><b><a href="#الكافتريا_">الكافتريا</a></b></p>
+<p align="center"><b><a href="#الأرباح_و_المصاريف_">الأرباح و المصاريف</a></b></p>
+<p align="center"><b><a href="#الإشتراكات_و_المشتركين_">الاشتراكات و المشتركين</a></b></p>
+<p align="center"><b><a href="#إعدادات_البرنامج_بشكل_عام_">إعدادات البرنامج بشكل عام</a></b></p>
+<p align="center"><b><a href="#التحكّم_بأجهزة_الشبكة_عن_بعد_">التحكم بأجهزة 
+الشبكة عن بعد</a></b></p>
+<p align="center"><b><a href="#التقارير_">التقارير</a></b></p>
+<p align="center"><b><a href="#مستخدم_صيانة_النظام_السرّي_">مستخدم صيانة النظام السرّي</a></b></p>
+<p align="center"><b>
+----------------------------------------------------------------------------------------------------------------------</b></p>
+<p align="center"><font color="#008000" size="4"><b><a name="مقدمة_:_">مقدمة :</a></b></font></p>
+<p align="center"><b>يعتبر نظام المختار لإدارة الشبكات الحاسوبيّة و مقاهي 
+الإنترنت أول نظام عربي 100 %</b></p>
+<p align="center"><b>&nbsp;من برمجة يد عربيّة بشكل كامل (تم بناؤه من الصفر) .</b></p>
+<p align="center"><b>لقد تم بناء نظام المختار بحيث نضمن لكم عدم حدوث أي أخطاء 
+مستقبلية على الصعيدين </b></p>
+<p align="center"><b>التقني الخاص بالشبكة والمحاسبي الخاص بالنظام&nbsp; و هذا 
+يضمن عدم انهيار</b></p>
+<p align="center"><b>النظام كما يحصل في باقي الأنظمة .</b></p>
+<p align="center"><b>بعون الله عز و جل يمكنك الاطمئنان أنك قد وضعت قدمك على 
+بداية الطريق الصحيح باختيارك نظام المختار</b></p>
+<p align="center"><font color="#008000" size="4"><b>
+<a name="شرح_كيفيّة_إعداد_النظام_:_">شرح كيفيّة إعداد النظام :</a></b></font></p>
+<p align="center"><b>في البداية و قبل كل شيء يجب معرفة بعض الأمور الخاصة 
+بالشبكات الحاسوبيّة بشكل عام</b></p>
+<p align="center"><b>أهم هذه الأمور هو كون أحد أجهزة الشبكة يلعب دور المدير لهذه 
+الشبكة كلها أو من الأصح تسميّته مزّود الخدمة للشبكة</b></p>
+<p align="center"><b>أو كما يُعرف باللغة الإنكليزيّة الـ <span lang="en-us">
+Server</span> .</b></p>
+<p align="center"><b>أما باقي الأجهزة فتلعب دور العملاء مع هذا الجهاز أي بمعنى 
+أدق <span lang="en-us">Clients </span>&nbsp;.</b></p>
+<p align="center"><b>من هذا المبدأ أول خطوة في إعداد النظام هي وضع قسم الـ
+<span lang="en-us">Server</span> على الجهاز الخاص بمدير الشبكة .</b></p>
+<p align="center"><b>و وضع قسم الـ <span lang="en-us">Client</span> على باقي 
+الأجهزة&nbsp; لاحظ الشكل التالي على فرض الشبكة مكّونة من 7 أجهزة </b></p>
+<p align="center"><img border="0" src="1.gif" width="420" height="244"></p>
+<p align="center"><b>الآن لكل جهاز من هذه الأجهزة الموضحة بالشكل رقم يميّزه عن 
+غيره هذا الرقم معروف برقم الـ <span lang="en-us">IP Address</span> </b></p>
+<p align="center"><b>أو كما نقول نحن رقم الـ <span lang="en-us">IP</span> .</b></p>
+<p align="center"><b>بعد تنصيب برنامج الـ <span lang="en-us">Server</span> على 
+الجهاز المدير للشبكة علينا معرفة رقم الـ <span lang="en-us">IP</span> الخاص بهذا 
+الجهاز من إعدادات الشبكة</b></p>
+<p align="center"><b>ثم نقوم بالذهاب لأجهزة العملاء (<span lang="en-us">Clients</span>) 
+و عند أول تشغيل لنظام المختار فيها سوف يطلب منا النظام إدخال رقم الـ
+<span lang="en-us">IP</span> للسيرفر</b></p>
+<p align="center"><b>نقوم بإدخال هذا الرقم و نضغط موافق فيتم تخزين هذا الرقم</b></p>
+<p align="center"><img border="0" src="2.gif" width="374" height="152"></p>
+<p align="center"><b>من المفروض الآن أن نلاحظ ظهور أول جهاز في الشبكة (في جهاز 
+مدير الشبكة أو الـ <span lang="en-us">Server</span>) كما في الشكل أدناه</b></p>
+<p align="center"><img border="0" src="3.gif" width="640" height="480"></p>
+<p align="center"><b><font color="#800080">ملاحظة :</font> في حال عدم ظهور 
+الجهاز كما في الشكل عندها هناك احتمالين لا ثالث لهما </b></p>
+<p align="center"><b>إما أنك لم تقم بتشغيل الـ <span lang="en-us">Server</span> 
+أو أنك قمت بإدخال رقم <span lang="en-us">IP</span> السيرفر بشكل خاطئ .</b></p>
+<p align="center"><b>الآن في حال ظهور الجهاز رقم 1 كما في الشكل كررّ العملية مع 
+جميع أجهزة الشبكة و سوف تلاحظ ظهورها الواحد تلو الآخر</b></p>
+<p align="center"><b>الآن استطيع أن أقول لك مبروك .... انتهينا من إعداد النظام 
+بنجاح .</b></p>
+<p align="center"><font size="4" color="#008000"><b>
+<a name="القائمة_عرض_و_أوامرها__">القائمة عرض و أوامرها </a></b></font></p>
+<p align="center"><b>قد لا يعجبك الترتيب الحالي للنظام عندها تتيح لك القائمة عرض 
+تغيير هذا المظهر بشكل متميّز و سهل .</b></p>
+<p align="center"><b><font size="4" color="#008000" face="Times New Roman">
+<a name="الكافتريا_">الكافتريا</a></font></b></p>
+<p align="center"><font face="Times New Roman"><b>في حال كون مقهى الانترنت الذي 
+تديره يحتوي على كافتريا سوف تكون هذه النافذة خيارك الرائع لإدارة الكافتريا بكل 
+سهولة</b></font></p>
+<p align="center"><font face="Times New Roman"><b>فما عليك سوى إضافة كل صنف 
+موجود لديك مع إدخال عدد القطع المتوفرة و سعر القطعة الواحدة طبعاً هذه المعلومات 
+سوف نستفيد</b></font></p>
+<p align="center"><b><font face="Times New Roman">منها لاحقاً بشكل كبير جدا</font><font face="Tahoma">ً</font><font face="Times New Roman"> 
+بالنسبة للتعامل مع هذه النافذة فهو سهل جداً و الأوامر واضحة و أعتقد أن عنوان كل 
+زر بحد ذاته</font></b></p>
+<p align="center"><b><font face="Times New Roman">يعتبر شرحاً لوظيفة هذا الزر .</font></b></p>
+<p align="center"><img border="0" src="4.gif" width="348" height="297"></p>
+<p align="center"><b><font color="#000080">ملاحظة عامة :</font> بما أن الدقة من 
+أهم ميزات نظام المختار يمكنك إدخال الأسعار بالفواصل العشريّة .</b></p>
+<p align="center"><font color="#008000" size="4"><b>
+<a name="الأرباح_و_المصاريف_">الأرباح و المصاريف</a></b></font></p>
+<p align="center"><b>طبعاً من اسم هذه الواجهة يتضح لنا أنها تفيد في إدخال 
+المصاريف و الأرباح ((الأمور الماليّة)) في النظام</b></p>
+<p align="center"><b>بالطبع هذه الواجهة تستخدم للإدخالات كافة و بشكل عام لكن 
+هناك إدخالات خاصة يقوم البرنامج بإدخالها تلقائياً مثل</b></p>
+<p align="center"><b>حساب أحد الأجهزة - قيمة طلبات الكافتريا التي طلبها مستخدم 
+معيّن ..... إلخ .</b></p>
+<p align="center"><img border="0" src="5.gif" width="250" height="247"></p>
+<p align="center"><font color="#008000" size="4"><b>
+<a name="الإشتراكات_و_المشتركين_">الاشتراكات و المشتركين</a></b></font></p>
+<p align="center"><b>تستخدم هذه النافذة لإدخال بيانات المشتركين من حيث أسماء 
+الاشتراكات و كلمات المرور كما يتم أيضاً إدخال عدد الساعات</b></p>
+<p align="center"><b>فيقوم النظام تلقائيّاً بحساب عدد الدقائق و في كل مرّة يقوم 
+أحد المشتركين بالدخول فإن البرنامج يقوم بحساب الوقت المتبقّي</b></p>
+<p align="center"><b>و إبلاغ المشترك عند انتهاء الاشتراك .</b></p>
+<p align="center"><img border="0" src="6.gif" width="350" height="151"></p>
+<p align="center"><b><font size="4" color="#008000">
+<a name="إعدادات_البرنامج_بشكل_عام_">إعدادات البرنامج بشكل عام</a></font></b></p>
+<p align="center"><b>من أهم نوافذ النظام يتم فيها ضبط الإعدادات العامة للبرنامج 
+و أهم هذه الإعدادات هو سعر الساعة (يتم حساب سعر الدقيقة تلقائيّاً بشكل دقيق)</b></p>
+<p align="center"><b>كما يمكن من هذه الواجهة ضبط ظهور شريط الأدوات و شريط الحالة 
+.</b></p>
+<p align="center"><b>و بكل تأكيد يمكن من هنا تغيير كلمة المرور لمدير النظام حيث 
+أن معلومات الدخول الافتراضيّة</b></p>
+<p align="center"><b><font color="#000080">اسم المستخدم </font>:
+<span lang="en-us">Admin</span></b></p>
+<p align="center"><b><font color="#000080">كلمة المرور :</font>&nbsp;
+<span lang="en-us">Password</span></b></p>
+<p align="center"><b>لاحظ أن أول حرف فقط هو <span lang="en-us">Capital letter</span> 
+في كلا المعلومتين .</b></p>
+<p align="center"><b><font color="#008000">ملاحظة :</font> القسم المحاسبي من 
+النظام يعتمد بشكل مباشر على المعلومات المدخلة هنا .</b></p>
+<p align="center"><img border="0" src="7.gif" width="350" height="302"></p>
+<p align="center"><b><font size="4" color="#008000">
+<a name="التحكّم_بأجهزة_الشبكة_عن_بعد_">التحكّم بأجهزة الشبكة عن بعد</a></font></b></p>
+<p align="center"><b>من أجمل ميزات هذا النظام أنك تستطيع التحكم بأجهزة الشبكة 
+الأخرى (( الحاوية على قسم الـ <span lang="en-us">Client</span> ))</b></p>
+<p align="center"><b>كل ما عليك فعلك هو النقر بزر الفأرة الأيمن على الجهاز الذي 
+تريد التحكم به ثم اختيار الأمر المناسب</b></p>
+<p align="center"><b>من القائمة المنسدلة التي سوف تظهر لك .</b></p>
+<p align="center"><img border="0" src="8.gif" width="640" height="480"></p>
+<p align="center"><b><font color="#000080">ملاحظة :</font> هناك ميّزة أخرى قويّة 
+في النظام هي إمكانية تطبيق نفس الأمر على جميع الأجهزة المرتبطة دفعة واحدة كما هو 
+واضح</b></p>
+<p align="center"><b>في الصورة أعلاه .</b></p>
+<p align="center"><font size="4" color="#008000"><b><a name="التقارير_">التقارير</a></b></font></p>
+<p align="center"><b><font face="Tahoma">&nbsp;</font><font face="Times New Roman">يمكنك 
+من خلال قسم التقارير في نظام المختار أن تقوم بمعرفة أدق التفاصيل عن بيانات 
+المشتركين</font></b></p>
+<p align="center"><b><font face="Times New Roman">و عن الأرباح و المصاريف و عن 
+محتويات الكافتريا بالإضافة لمعرفة الاشتراكات المنتهيّة كل ما عليك</font></b></p>
+<p align="center"><b><font face="Times New Roman">هو اختيار نوع التقرير المناسب 
+من القائمة تقارير فيظهر لك التقرير بشكل معاينة قبل الطباعة</font></b></p>
+<p align="center"><b><font face="Times New Roman">يمكن عندها حفظ التقرير بعدّة 
+صيغ مختلفة أو يمكنك طباعة التقرير مباشرةً .</font></b></p>
+<p align="center"><img border="0" src="9.gif" width="640" height="480"></p>
+<p align="center"><b><font color="#008000" size="4">
+<a name="مستخدم_صيانة_النظام_السرّي_">مستخدم صيانة النظام السرّي</a></font></b></p>
+<p align="center"><b>آخر ما يجب ذكره هنا هو هذه الميّزة السريّة التي سوف تستفيد 
+منها كثيراً في حال حصول أخطاء غير متوقّعة لا سمح الله</b></p>
+<p align="center"><b>عندما يكون الجهاز العميل (<span lang="en-us">Client</span>) 
+مغلقاً فإنه لا توجد هناك إمكانية لفتحه إلا من جهاز مدير الشبكة (<span lang="en-us">Server</span>)</b></p>
+<p align="center"><b>لكن في حال وجود خطأ ما في الاتصال أو في إعداد النظام فإن 
+الجهاز العميل سوف يبقى مغلقاً</b></p>
+<p align="center"><b>لحل هذه المشكلة هناك حساب سرّي خاص لفتح النظام دون الحاجة 
+لموافقة المدير .... هذا الحساب هو الآتي</b></p>
+<p align="center"><b>لكن احرص أن لا تقع هذه المعلومات بيد أحد سواك أنت مدير 
+الشبكة</b></p>
+<p align="center">&nbsp;</p>
+<p align="center"><b>اسم المستخدم : مختار</b></p>
+<p align="center"><b>كلمة المرور : سيد صالح</b></p>
+<p align="center">&nbsp;</p>
+<p align="center"><b><font size="4" color="#FF0000">ملاحظة هامة جداً جداً :</font></b></p>
+<p align="center"><font size="4"><b>تم اختصار الشرح بشكل كبير جداً و قد اقتصرت 
+في شرحي هذا على كيفية التعامل مع البرنامج بشكل عام</b></font></p>
+<p align="center"><font size="4"><b>و لم أقم بالدخول في التفاصيل الدقيقة كونه لا 
+بدّ من أنك تعرفها فهي من الأمور الواجب عليك معرفتها قبل أن تكون مديراً لشبكة 
+حاسوبيّة</b></font></p>
+<p align="center"><font size="4"><b>&nbsp;أو مقهى انترنت .</b></font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><font size="4"><b>و لله الحمد من قبلٍ و من بعد </b></font></p>
+<p align="center"><font size="4"><b>
+**********************************************************************************</b></font></p>
+<p align="center"><font size="6" color="#FF0000"><b>مبرمج النظام : مختار السيد 
+صالح</b></font></p>
+<p align="center"><b><font size="4" color="#FF0000">للطلب و الاستعلام الاتصال 
+على جوّال رقم </font></b></p>
+<p align="center"><b><font size="4" color="#FF0000">من خارج سوريا</font></b></p>
+<p align="center"><b><font size="4">0096394467547</font></b></p>
+<p align="center"><b><font size="4" color="#FF0000">من داخل سوريا</font></b></p>
+<p align="center"><b><font size="4">094467547</font></b></p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+Line 19: Class ChangeResProject.ChangeRes of control ChangeRes1 was not a loaded control class.
+Line 25: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel2 was not a loaded control class.
+Line 33: Class ACTIVESKINLibCtl.SkinLabel of control SkinLabel1 was not a loaded control class.
+Line 41: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 22: The property name _ExtentX in ChangeRes1 is invalid.
+Line 23: The property name _ExtentY in ChangeRes1 is invalid.
+Line 28: The property name OleObjectBlob in SkinLabel2 is invalid.
+Line 36: The property name OleObjectBlob in SkinLabel1 is invalid.
+Line 43: The property name OleObjectBlob in Skin1 is invalid.

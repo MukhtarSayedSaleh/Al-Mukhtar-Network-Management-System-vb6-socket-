@@ -1,0 +1,9 @@
+Line 21: Class ACTIVESKINLibCtl.Skin of control Skin1 was not a loaded control class.
+Line 26: Class ACTIVESKINLibCtl.SkinLabel of control Label2 was not a loaded control class.
+Line 34: Class ACTIVESKINLibCtl.SkinLabel of control Label1 was not a loaded control class.
+Line 70: Class PicFormat32a.PicFormat32 of control PicFormat321 was not a loaded control class.
+Line 23: The property name OleObjectBlob in Skin1 is invalid.
+Line 29: The property name OleObjectBlob in Label2 is invalid.
+Line 37: The property name OleObjectBlob in Label1 is invalid.
+Line 77: The property name _ExtentX in PicFormat321 is invalid.
+Line 78: The property name _ExtentY in PicFormat321 is invalid.
